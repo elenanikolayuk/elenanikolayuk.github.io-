@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/elenanikolayuk.github.io-/static/css/main.f855e6bc.css",
+    "main.js": "/elenanikolayuk.github.io-/static/js/main.77f89839.js",
+    "static/js/453.cb3cc533.chunk.js": "/elenanikolayuk.github.io-/static/js/453.cb3cc533.chunk.js",
+    "static/media/logo.svg": "/elenanikolayuk.github.io-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/elenanikolayuk.github.io-/index.html",
+    "main.f855e6bc.css.map": "/elenanikolayuk.github.io-/static/css/main.f855e6bc.css.map",
+    "main.77f89839.js.map": "/elenanikolayuk.github.io-/static/js/main.77f89839.js.map",
+    "453.cb3cc533.chunk.js.map": "/elenanikolayuk.github.io-/static/js/453.cb3cc533.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.77f89839.js"
+  ]
+}
